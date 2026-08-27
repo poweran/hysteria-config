@@ -2,4 +2,5 @@
 # profile-update-interval: 24
 # subscription-userinfo: upload=0; download=0; total=1073741824000; expire=1893456000
 
-hysteria2://kg4j37eogK8iNeeaDhQyZQ4I@217.113.13.135:443?insecure=1&sni=bing.com#Provideo%20Hysteria2
+hysteria2://kg4j37eogK8iNeeaDhQyZQ4I@45.159.75.130:443?insecure=1&sni=bing.
+  com#Provideo%20Hysteria2
