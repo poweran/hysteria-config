@@ -1,4 +1,4 @@
-# profile-title: Provideo Hysteria2 Server
+# profile-title: Provideo Server
 # profile-update-interval: 24
 # subscription-userinfo: upload=0; download=0; total=1073741824000; expire=1893456000
 
