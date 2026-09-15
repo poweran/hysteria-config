@@ -2,5 +2,4 @@
 # profile-update-interval: 24
 # subscription-userinfo: upload=0; download=0; total=1073741824000; expire=1893456000
 
-hysteria2://kg4j37eogK8iNeeaDhQyZQ4I@45.159.75.130:443?insecure=1&sni=bing.com#Provideo%20UDP%20(Hysteria2)
-vless://5c0f28ce-2155-45cb-8ac4-9733442c5e6d@45.159.75.130:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gateway.icloud.com&fp=chrome&pbk=Dh7KuDIJNg8EgLlPrrySK7MRL1h1TgsaYKpGwIZ4iEY&sid=46ee1f86f78b7867&type=tcp#Provideo%20TCP%20(VLESS-Reality)
+vless://4a475e6b-25b2-47de-b986-eb2696e4c10d@45.159.75.130:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gateway.icloud.com&fp=chrome&pbk=Dh7KuDIJNg8EgLlPrrySK7MRL1h1TgsaYKpGwIZ4iEY&sid=46ee1f86f78b7867&type=tcp#Infinity
